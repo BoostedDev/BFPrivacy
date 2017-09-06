@@ -127,9 +127,15 @@ If you have any questions or concerns regarding the Privacy Policy Agreement rel
 app, please feel free to contact us at the following email, telephone number or mailing
 address.
 
-**Email:** isaac@boostedfitnessapp.com
+**Email:**
+```
+isaac@boostedfitnessapp.com
+```
 
-**Telephone Number:** (505) 331-2166
+**Telephone Number:**
+```
+(505) 331-2166
+```
 
 **Mailing Address:**
 ``` 
