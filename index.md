@@ -1,8 +1,4 @@
 # Boosted Fitness Privacy Policy
-
-
-
-
 Boosted Fitness, LLC, (Boosted Fitness), is committed to keeping any and all personal
 information collected of those individuals that use our app and make use of our online facilities
 and services accurate, confidential, secure and private. Our privacy policy has been designed and
@@ -12,9 +8,6 @@ THEREFORE, this Privacy Policy Agreement shall apply to Boosted Fitness, LLC , a
 shall govern any and all data collection and usage thereof. Through the use of the Boosted
 Fitness app you are herein consenting to the following data procedures expressed within this
 agreement.
-
-
-
 
 ## Collection of Information
 This app collects various types of information, such as:
@@ -135,18 +128,16 @@ app, please feel free to contact us at the following email, telephone number or 
 address.
 
 
-Email: isaac@boostedfitnessapp.com
+**Email:** isaac@boostedfitnessapp.com
 
-Telephone Number: 5053312166
+**Telephone Number:** (505) 331-2166
 
-Mailing Address:
+> Mailing Address:
 
-Boosted Fitness, LLC
+> Boosted Fitness, LLC
 
-P.O. Box 1296
+> P.O. Box 1296
 
-Lubbock, Texas 79408
-
-
+> Lubbock, Texas 79408
 
 #### 08/21/2017
