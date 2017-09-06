@@ -1,5 +1,6 @@
 # Boosted Fitness Privacy Policy
 
+
 Boosted Fitness, LLC, (Boosted Fitness), is committed to keeping any and all personal
 information collected of those individuals that use our app and make use of our online facilities
 and services accurate, confidential, secure and private. Our privacy policy has been designed and
@@ -13,6 +14,7 @@ agreement.
 
 ## Collection of Information
 This app collects various types of information, such as:
+
 * Voluntarily provided information which may include your name, email address, etc.,
 which may be used when you purchase products and/or services and to deliver the
 services you have requested.
@@ -28,7 +30,6 @@ and any additional uses specifically provided on this app.
 We may also gather information about the type of device you are using, such as the device IP
 or type of operating system to assist us in providing and maintaining superior quality service.
 
-
 It is highly recommended and suggested that you review the privacy policies and statements
 of any site you choose to use or frequent as a means to better understand the way in which
 other sites garner, make use of and share information collected.
@@ -43,15 +44,12 @@ informed of other possible products and/or services that may be available to you
 Boosted Fitness app. Boosted Fitness may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or
 potential future services that may be offered.
 
-
 Boosted Fitness does not now, nor will it in the future, sell, rent or lease any of our customer
 lists and/or names to any third parties.
-
 
 Boosted Fitness may deem it necessary to follow pages that our users may frequent in an
 effort to gleam what types of services and/or products may be the most popular to customers
 or the general public.
-
 
 Boosted Fitness may disclose your personal information, without prior notice to you, only if
 required to do so in accordance with applicable laws and/or in a good faith belief that such
@@ -59,9 +57,9 @@ action is deemed necessary or is required in an effort to:
  
 * Remain in conformance with any decrees, laws and/or statutes or in an effort to comply
 with any process which may be served upon Boosted Fitness and/or our app;
- 
+
 * Maintain, safeguard and/or preserve all the rights and/or property of Boosted Fitness; and
- 
+
 * Perform under demanding conditions in an effort to safeguard the personal safety of users
 of the Boosted Fitness app and/or the general public.
 
