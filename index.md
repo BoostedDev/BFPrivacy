@@ -9,8 +9,6 @@ shall govern any and all data collection and usage thereof. Through the use of t
 Fitness app you are herein consenting to the following data procedures expressed within this
 agreement.
 
-###
-
 ## Collection of Information
 This app collects various types of information, such as:
 
