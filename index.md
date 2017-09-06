@@ -62,7 +62,6 @@ of the Boosted Fitness app and/or the general public.
 
 
 
-* * * 
 ## Children Under Age of 13
 Boosted Fitness does not knowingly collect personal identifiable information from children
 under the age of thirteen (13) without verifiable parental consent. If it is determined that such
