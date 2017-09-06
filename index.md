@@ -9,6 +9,8 @@ shall govern any and all data collection and usage thereof. Through the use of t
 Fitness app you are herein consenting to the following data procedures expressed within this
 agreement.
 
+###
+
 ## Collection of Information
 This app collects various types of information, such as:
 
@@ -33,7 +35,7 @@ other sites garner, make use of and share information collected.
 
 
 
-
+###
 ## Use of Information Collected
 Boosted Fitness may collect and may make use of personal information to assist in the
 operation of our app and to ensure delivery of the services you need and request. At times,
@@ -63,7 +65,7 @@ of the Boosted Fitness app and/or the general public.
 
 
 
-
+###
 ## Children Under Age of 13
 Boosted Fitness does not knowingly collect personal identifiable information from children
 under the age of thirteen (13) without verifiable parental consent. If it is determined that such
@@ -74,7 +76,7 @@ guardian permission to use this website.
 
 
 
-
+###
 ## Links to Other Sites
 Our app may contain links to affiliate and other websites or apps. Boosted Fitness does not
 claim nor accept responsibility for any privacy policies, practices and/or procedures of other
@@ -84,8 +86,7 @@ personally identifiable information. The aforementioned Privacy Policy Agreement
 only and solely to the information collected by our app.
 
 
-
-
+###
 ## Security
 Boosted Fitness shall endeavor and shall take every precaution to maintain adequate
 physical, procedural and technical security with respect to our offices and information
@@ -97,8 +98,7 @@ communications in an effort to build users&#39; trust and confidence in the inte
 by providing simple and secure access and communication of personal information.
 
 
-
-
+###
 ## Changes to Privacy Policy Agreement
 Boosted Fitness reserves the right to update and/or change the terms of our privacy policy,
 and as such we will notify the users of the Boosted Fitness app, so that our users and/or
