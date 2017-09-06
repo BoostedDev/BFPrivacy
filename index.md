@@ -1,6 +1,8 @@
 # Boosted Fitness Privacy Policy
 
 
+
+
 Boosted Fitness, LLC, (Boosted Fitness), is committed to keeping any and all personal
 information collected of those individuals that use our app and make use of our online facilities
 and services accurate, confidential, secure and private. Our privacy policy has been designed and
@@ -10,6 +12,8 @@ THEREFORE, this Privacy Policy Agreement shall apply to Boosted Fitness, LLC , a
 shall govern any and all data collection and usage thereof. Through the use of the Boosted
 Fitness app you are herein consenting to the following data procedures expressed within this
 agreement.
+
+
 
 
 ## Collection of Information
@@ -33,6 +37,7 @@ or type of operating system to assist us in providing and maintaining superior q
 It is highly recommended and suggested that you review the privacy policies and statements
 of any site you choose to use or frequent as a means to better understand the way in which
 other sites garner, make use of and share information collected.
+
 
 
 
@@ -64,6 +69,8 @@ with any process which may be served upon Boosted Fitness and/or our app;
 of the Boosted Fitness app and/or the general public.
 
 
+
+
 ## Children Under Age of 13
 Boosted Fitness does not knowingly collect personal identifiable information from children
 under the age of thirteen (13) without verifiable parental consent. If it is determined that such
@@ -73,6 +80,8 @@ system&#39;s database. Anyone under the age of thirteen (13) must seek and obtai
 guardian permission to use this website.
 
 
+
+
 ## Links to Other Sites
 Our app may contain links to affiliate and other websites or apps. Boosted Fitness does not
 claim nor accept responsibility for any privacy policies, practices and/or procedures of other
@@ -80,6 +89,8 @@ such websites or apps. Therefore, we encourage all users and visitors to be awar
 leave our app and to read the privacy statements of each and every site that collects
 personally identifiable information. The aforementioned Privacy Policy Agreement applies
 only and solely to the information collected by our app.
+
+
 
 
 ## Security
@@ -93,6 +104,8 @@ communications in an effort to build users&#39; trust and confidence in the inte
 by providing simple and secure access and communication of personal information.
 
 
+
+
 ## Changes to Privacy Policy Agreement
 Boosted Fitness reserves the right to update and/or change the terms of our privacy policy,
 and as such we will notify the users of the Boosted Fitness app, so that our users and/or
@@ -104,12 +117,16 @@ collected, the user or users shall be promptly notified by email. Users at that 
 the option as to whether or not to permit the use of their information in this separate manner.
 
 
+
+
 ## Acceptance of Terms
 Through the use of this app, you are hereby accepting the terms and conditions stipulated
 within the aforementioned Privacy Policy Agreement. If you are not in agreement with our
 terms and conditions, then you should refrain from further use of our sites. In addition, your
 continued use of our app following the posting of any updates or changes to our terms and
 conditions shall mean that you are in agreement and acceptance of such changes.
+
+
 
 
 ## How to Contact Us
@@ -119,6 +136,7 @@ address.
 
 
 Email: isaac@boostedfitnessapp.com
+
 Telephone Number: 5053312166
 
 Mailing Address:
