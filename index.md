@@ -127,17 +127,15 @@ If you have any questions or concerns regarding the Privacy Policy Agreement rel
 app, please feel free to contact us at the following email, telephone number or mailing
 address.
 
-
 **Email:** isaac@boostedfitnessapp.com
 
 **Telephone Number:** (505) 331-2166
 
-> Mailing Address:
-
-> Boosted Fitness, LLC
-
-> P.O. Box 1296
-
-> Lubbock, Texas 79408
+**Mailing Address:**
+``` 
+Boosted Fitness, LLC
+P.O. Box 1296
+Lubbock, Texas 79408
+```
 
 #### 08/21/2017
